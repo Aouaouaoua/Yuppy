@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unknownsmpaou.aternos.me",
-    "port": 37026,
-    "version": "1.21.11"
+    "ip": "LegendPupBab.aternos.me",
+    "port": 52002,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
